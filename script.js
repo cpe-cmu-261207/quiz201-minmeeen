@@ -24,7 +24,7 @@ btn_toggle.onclick = () => {
 
 
 // r.onclick = () => {
-//   const t = document.getElementById("text")
+//   const t = document.getElementById("text");
 //   t = JSON.parse(localStorage.getItem("ts"));
 
 
